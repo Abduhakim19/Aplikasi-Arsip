@@ -1,0 +1,22 @@
+.apopup {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.295);
+    width: 100%;
+    height: 100%;
+}
+
+.cPopUp {
+    margin: 0 auto; 
+    margin-top: 90px;
+    background-color: blue;
+    width: 500px;
+}
+
+.gambarP {
+    background-color: black;
+    width: 220px;
+    height: 170px;
+}

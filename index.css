@@ -1,0 +1,86 @@
+
+
+* {
+	font-family: Verdana;
+}
+
+html, body {
+	margin : 0;
+	pading: 0;
+	width : 100%;
+	height: 100%;
+}
+
+nav {
+	float: left;
+	height: 100%;
+	background-color: blue;
+	width: 24%
+}
+ nav ul {
+	margin : 0;
+	padding: 0;
+	width: 100%;
+
+}
+
+ul li {
+	border-bottom: 1px solid white;
+	display: block;
+	list-style-type: none;
+	margin: 0;
+	background-color: blue;
+	padding: 2% 0 2% 4%;
+}
+
+ul li a {
+	color: white;
+	font-size : 21px;
+	background-color: blue;
+	text-decoration: none;
+}
+ul li a:hover {
+	color: purple;
+transition: 2s;
+}
+
+li.atas {
+	padding-top: 10%;
+border: none;
+
+}
+
+#gambar {
+	margin: 0 auto;
+	border: 1px solid black;
+	height: 100px;
+	background-color: green;
+	width: 100px;
+	border-radius: 50%;
+}
+
+p.user {
+text-align: center;
+color: white;
+
+}
+
+.content {
+	padding: 2% 0 2% 5%;
+	float: left;
+	height: 86.1%;
+	width: 69%;
+}
+p.judul {
+
+	width : 100%;
+	font-size: 32px;
+}
+.footer {
+	text-align: center;
+	background-color: grey;
+	float: left;
+	height: 5.5%;
+	width: 76%;
+color: white;
+}

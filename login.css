@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 180px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(163, 45, 241);
+    color: white;
+    font-size: 22px;
+}
+
+table {
+    border-radius: 6px;
+    background-color: rgb(108, 15, 170);
+    width: 300px;
+    margin: 0 auto;
+    padding: 24px 27px 24px 27px;
+}
+input[type=text], input[type=password]{
+    width: 92.5%;
+    margin-top: 4px;
+    font-size: 14px;
+    padding: 5px 4px 5px 12px;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+input[type=submit]{
+    margin-top: 16px;
+    background-color: rgb(73, 11, 114);
+    color: white;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 2px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border: 1px solid white;
+    outline: none;
+    cursor: pointer;
+}
